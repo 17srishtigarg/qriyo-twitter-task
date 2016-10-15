@@ -1,6 +1,6 @@
-Write a simple <a href="https://dev.twitter.com/overview/documentation">Twitter API</a> client in PHP. This client simply has to fetch and display Tweets that 
-  a) Have been re-Tweeted at least once 
-  b) Contain the hashtag #hometutor
+Write a simple <a href="https://dev.twitter.com/overview/documentation">Twitter API</a> client in PHP. This client simply has to fetch and display Tweets that <br><br>
+      a) Have been re-Tweeted at least once <br>
+      b) Contain the hashtag #hometutor
 
 Why we are asking you to do this: We believe that code is poetry. This short, simple test will help you demonstrate not just your programming talent, but your approach to designing an application. We don’t just want to see the coder in you - we want to see the engineer and a great startup developer.
 
